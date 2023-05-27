@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.dpt3</groupId>
 	<artifactId>login</artifactId>
-	<version>release</version>
+	<version>1.0.0</version>
 	<packaging>war</packaging>
 	<name>login</name>
 	<description>DPT DevOps project for Spring Boot</description>
